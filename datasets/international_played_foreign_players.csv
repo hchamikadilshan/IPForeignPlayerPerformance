@@ -1,0 +1,320 @@
+player_id,player_name,country,played_international,bowling_style,batting_style,player_role
+2,BB McCullum,New Zealand,2002 - 2016,"Right arm Medium, Right arm Offbreak",Right hand Bat,Wicketkeeper Batter
+3,RT Ponting,Australia,1995 - 2012,Right arm Medium,Right hand Bat,Top order Batter
+4,DJ Hussey,Australia,2008 - 2013,Right arm Offbreak,Right hand Bat,Allrounder
+5,Mohammad Hafeez,Pakistan,2003 - 2021,Right arm Offbreak,Right hand Bat,Allrounder
+9,JH Kallis,South Africa,1995 - 2014,Right arm Fast medium,Right hand Bat,Allrounder
+10,CL White,Australia,2005 - 2018,Legbreak Googly,Right hand Bat,Middle order Batter
+11,MV Boucher,South Africa,1997 - 2012,Right arm Medium,Right hand Bat,Wicketkeeper Batter
+13,AA Noffke,Australia,2007 - 2008,Right arm Fast medium,Right hand Bat,Allrounder
+18,ML Hayden,Australia,1993 - 2009,Right arm Medium,Left hand Bat,Opening Batter
+19,MEK Hussey,Australia,2004 - 2013,Right arm Medium,Left hand Bat,Middle order Batter
+22,JDP Oram,New Zealand,2001 - 2012,Right arm Fast medium,Left hand Bat,Allrounder
+25,JR Hopes,Australia,2005 - 2010,Right arm Medium,Right hand Bat,Allrounder
+26,KC Sangakkara,Sri Lanka,2000 - 2015,Right arm Offbreak,Left hand Bat,Wicketkeeper Batter
+28,SM Katich,Australia,2001 - 2010,Left arm Wrist spin,Left hand Bat,Batter
+32,SR Watson,Australia,2002 - 2016,Right arm Fast medium,Right hand Bat,Allrounder
+34,DS Lehmann,Australia,1996 - 2005,Slow Left arm Orthodox,Left hand Bat,Top order Batter
+38,SK Warne,Australia,1992 - 2007,Legbreak Googly,Right hand Bat,Bowler
+43,L Ronchi,New Zealand,2008 - 2018,,Right hand Bat,Wicketkeeper Batter
+44,ST Jayasuriya,Sri Lanka,1989 - 2011,Slow Left arm Orthodox,Left hand Bat,Allrounder
+49,SM Pollock,South Africa,1995 - 2008,Right arm Fast medium,Right hand Bat,Allrounder
+51,S Chanderpaul,West Indies,1994 - 2015,Legbreak,Left hand Bat,Batter
+52,LRPL Taylor,New Zealand,2006 - 2022,Right arm Offbreak,Right hand Bat,Middle order Batter
+53,AC Gilchrist,Australia,1996 - 2008,Right arm Offbreak,Left hand Bat,Wicketkeeper Batter
+56,A Symonds,Australia,1998 - 2009,"Right arm Medium, Right arm Offbreak",Right hand Bat,Allrounder
+58,SB Styris,New Zealand,1999 - 2011,Right arm Medium,Right hand Bat,Allrounder
+61,WPUJC Vaas,Sri Lanka,1994 - 2009,Left arm Fast medium,Left hand Bat,Bowler
+65,DPMD Jayawardene,Sri Lanka,1997 - 2015,Right arm Medium,Right hand Bat,Batter
+66,S Sohal,U.S.A.,2019 - 2019,Legbreak,Right hand Bat,Batter
+67,B Lee,Australia,1999 - 2012,Right arm Fast,Right hand Bat,Bowler
+70,Kamran Akmal,Pakistan,2002 - 2017,,Right hand Bat,Wicketkeeper Batter
+71,Shahid Afridi,Pakistan,1996 - 2018,Legbreak Googly,Right hand Bat,Allrounder
+72,DJ Bravo,West Indies,2004 - 2021,Right arm Medium,Right hand Bat,Allrounder
+75,GC Smith,South Africa,2002 - 2014,Right arm Offbreak,Left hand Bat,Opening Batter
+77,RR Sarwan,West Indies,2000 - 2013,Legbreak,Right hand Bat,Batter
+87,Shoaib Malik,Pakistan,1999 - 2021,Right arm Offbreak,Right hand Bat,Allrounder
+91,MF Maharoof,Sri Lanka,2004 - 2016,Right arm Fast medium,Right hand Bat,Allrounder
+95,DW Steyn,South Africa,2004 - 2020,Right arm Fast,Right hand Bat,Bowler
+98,HH Gibbs,South Africa,1996 - 2010,Right arm Bowler,Right hand Bat,Opening Batter
+99,DNT Zoysa,Sri Lanka,1997 - 2007,Left arm Fast medium,Left hand Bat,Bowler
+101,SE Marsh,Australia,2008 - 2019,Slow Left arm Orthodox,Left hand Bat,Top order Batter
+103,Sohail Tanvir,Pakistan,2007 - 2017,Left arm Medium fast,Left hand Bat,Bowler
+104,Salman Butt,Pakistan,2003 - 2010,Right arm Offbreak,Left hand Bat,Batter
+105,BJ Hodge,Australia,2005 - 2014,Right arm Offbreak,Right hand Bat,Top order Batter
+106,Umar Gul,Pakistan,2003 - 2016,Right arm Fast medium,Right hand Bat,Bowler
+108,SP Fleming,New Zealand,1994 - 2008,,Left hand Bat,Top order Batter
+110,JA Morkel,South Africa,2004 - 2015,Right arm Medium fast,Left hand Bat,Bowling Allrounder
+111,AB de Villiers,South Africa,2004 - 2018,Right arm Medium,Right hand Bat,Wicketkeeper Batter
+112,LPC Silva,Sri Lanka,1999 - 2011,Legbreak,Right hand Bat,Batter
+114,Misbah-ul-Haq,Pakistan,2001 - 2017,Legbreak,Right hand Bat,Middle order Batter
+118,Mohammad Asif,Pakistan,2005 - 2010,Right arm Fast medium,Left hand Bat,Bowler
+119,GD McGrath,Australia,1993 - 2007,Right arm Fast medium,Right hand Bat,Bowler
+123,M Ntini,South Africa,1998 - 2011,Right arm Fast,Right hand Bat,Bowler
+128,CK Kapugedera,Sri Lanka,2006 - 2017,Right arm Medium,Right hand Bat,Middle order Batter
+130,T Taibu,Zimbabwe,2001 - 2012,Right arm Medium,Right hand Bat,Wicketkeeper Batter
+136,TM Dilshan,Sri Lanka,1999 - 2016,Right arm Offbreak,Right hand Bat,Allrounder
+138,AD Mascarenhas,England,2007 - 2009,Right arm Fast medium,Right hand Bat,Allrounder
+140,LA Pomersbach,Australia,2007 - 2007,Right arm Offbreak,Left hand Bat,Batter
+142,Younis Khan,Pakistan,2000 - 2017,"Right arm Medium, Legbreak",Right hand Bat,Middle order Batter
+145,Shoaib Akhtar,Pakistan,1997 - 2011,Right arm Fast,Right hand Bat,Bowler
+146,Abdur Razzak,Bangladesh,2004 - 2018,Slow Left arm Orthodox,Left hand Bat,Bowler
+148,DR Smith,West Indies,2004 - 2015,Right arm Medium,Right hand Bat,Allrounder
+150,CRD Fernando,Sri Lanka,2000 - 2016,Right arm Fast medium,Right hand Bat,Bowler
+155,JP Duminy,South Africa,2004 - 2019,Right arm Offbreak,Left hand Bat,Batting Allrounder
+156,A Flintoff,England,1998 - 2009,Right arm Fast medium,Right hand Bat,Allrounder
+157,T Thushara,Sri Lanka,2003 - 2010,Left arm Fast medium,Left hand Bat,Bowler
+158,JD Ryder,New Zealand,2008 - 2014,Right arm Medium,Left hand Bat,Allrounder
+159,KP Pietersen,England,2004 - 2014,Right arm Offbreak,Right hand Bat,Top order Batter
+160,T Henderson,South Africa,2006 - 2006,Right arm Fast medium,Right hand Bat,Bowler
+162,RS Bopara,England,2007 - 2015,Right arm Medium,Right hand Bat,Batting Allrounder
+163,CH Gayle,West Indies,1999 - 2021,Right arm Offbreak,Left hand Bat,Allrounder
+164,MC Henriques,Australia,2009 - 2021,Right arm Fast medium,Right hand Bat,Allrounder
+166,FH Edwards,West Indies,2003 - 2021,Right arm Fast,Right hand Bat,Bowler
+169,RJ Quiney,Australia,2012 - 2012,Right arm Medium,Left hand Bat,Batter
+175,BAW Mendis,Sri Lanka,2008 - 2015,Right arm Offbreak,Right hand Bat,Bowler
+176,DL Vettori,New Zealand,1997 - 2015,Slow Left arm Orthodox,Left hand Bat,Allrounder
+177,MN van Wyk,South Africa,2003 - 2015,Slow Left arm Orthodox,Right hand Bat,Wicketkeeper Batter
+178,RE van der Merwe,Netherlands,2009 - 2024,Slow Left arm Orthodox,Right hand Bat,Bowling Allrounder
+185,SM Harwood,Australia,2007 - 2009,Right arm Fast medium,Right hand Bat,Bowler
+188,DA Warner,Australia,2009 - 2024,Legbreak,Left hand Bat,Opening Batter
+189,RJ Harris,Australia,2009 - 2015,Right arm Fast,Right hand Bat,Bowler
+191,M Morkel,South Africa,2006 - 2018,Right arm Fast,Left hand Bat,Bowler
+192,AD Mathews,Sri Lanka,2008 - 2024,Right arm Medium,Right hand Bat,Allrounder
+193,J Botha,South Africa,2005 - 2012,Right arm Offbreak,Right hand Bat,Allrounder
+195,SL Malinga,Sri Lanka,2004 - 2020,Right arm Fast,Right hand Bat,Bowler
+196,Mashrafe Mortaza,Bangladesh,2001 - 2020,Right arm Fast medium,Right hand Bat,Bowler
+198,GJ Bailey,Australia,2012 - 2017,Right arm Medium,Right hand Bat,Top order Batter
+199,AB McDonald,Australia,2009 - 2009,Right arm Fast medium,Right hand Bat,Allrounder
+203,Mohammad Ashraful,Bangladesh,2001 - 2013,"Right arm Offbreak, Legbreak",Right hand Bat,Middle order Batter
+205,OA Shah,England,2001 - 2009,Right arm Offbreak,Right hand Bat,Batter
+211,R McLaren,South Africa,2009 - 2014,Right arm Medium fast,Left hand Bat,Allrounder
+216,YA Abdulla,South Africa,2009 - 2009,Left arm Fast medium,Left hand Bat,Bowler
+217,EJG Morgan,England,2006 - 2022,Right arm Medium,Left hand Bat,Middle order Batter
+218,JM Kemp,South Africa,2001 - 2007,Right arm Fast medium,Right hand Bat,Bowling Allrounder
+221,SE Bond,New Zealand,2001 - 2010,Right arm Fast,Right hand Bat,Bowler
+222,KA Pollard,West Indies,2007 - 2022,Right arm Medium,Right hand Bat,Batting Allrounder
+224,DP Nannes,Australia,2009 - 2010,Left arm Fast,Right hand Bat,Bowler
+225,MJ Lumb,England,2010 - 2014,Right arm Medium,Left hand Bat,Top order Batter
+226,DR Martyn,Australia,1992 - 2006,Right arm Medium,Right hand Bat,Top order Batter
+228,AB Barath,West Indies,2009 - 2012,Right arm Offbreak,Right hand Bat,Opening Batter
+231,AC Voges,Australia,2007 - 2016,Slow Left arm Orthodox,Right hand Bat,Top order Batter
+234,J Theron,U.S.A.,2010 - 2022,Right arm Medium fast,Right hand Bat,Bowler
+239,SW Tait,Australia,2005 - 2016,Right arm Fast,Right hand Bat,Bowler
+241,KAJ Roach,West Indies,2008 - 2024,Right arm Fast medium,Right hand Bat,Bowler
+242,PD Collingwood,England,2001 - 2017,Right arm Medium,Right hand Bat,Allrounder
+243,CK Langeveldt,South Africa,2001 - 2010,Right arm Fast medium,Right hand Bat,Bowler
+249,DE Bollinger,Australia,2009 - 2014,Left arm Fast medium,Left hand Bat,Bowler
+254,MR Marsh,Australia,2011 - 2024,Right arm Medium,Right hand Bat,Allrounder
+255,AJ Finch,Australia,2011 - 2022,Slow Left arm Orthodox,Right hand Bat,Top order Batter
+257,Harmeet Singh,U.S.A.,2024 - 2024,Slow Left arm Orthodox,Left hand Bat,Bowling Allrounder
+259,DT Christian,Australia,2010 - 2021,Right arm Fast medium,Right hand Bat,Allrounder
+268,WD Parnell,South Africa,2009 - 2023,Left arm Medium fast,Left hand Bat,Bowler
+269,JJ van der Wath,South Africa,2006 - 2007,Right arm Medium fast,Right hand Bat,Allrounder
+272,MS Wade,Australia,2011 - 2024,Right arm Medium,Left hand Bat,Wicketkeeper Batter
+273,TD Paine,Australia,2009 - 2021,Right arm Medium,Right hand Bat,Wicketkeeper Batter
+275,AC Thomas,South Africa,2007 - 2007,Right arm Fast medium,Right hand Bat,Bowler
+276,JEC Franklin,New Zealand,2001 - 2013,Left arm Medium,Left hand Bat,Allrounder
+277,Shakib Al Hasan,Bangladesh,2006 - 2024,Slow Left arm Orthodox,Left hand Bat,Allrounder
+279,S Randiv,Sri Lanka,2009 - 2016,Right arm Offbreak,Right hand Bat,Bowler
+280,BJ Haddin,Australia,2001 - 2015,,Right hand Bat,Wicketkeeper Batter
+281,NLTC Perera,Sri Lanka,2009 - 2021,Right arm Medium fast,Left hand Bat,Bowling Allrounder
+282,NL McCullum,New Zealand,2007 - 2016,Right arm Offbreak,Right hand Bat,Bowler
+283,JE Taylor,West Indies,2003 - 2018,Right arm Fast,Right hand Bat,Bowler
+285,RN ten Doeschate,Netherlands,2006 - 2021,Right arm Medium fast,Right hand Bat,Allrounder
+286,TR Birt,Australia,2010 - 2012,Right arm Medium,Left hand Bat,Middle order Batter
+289,M Klinger,Australia,2017 - 2017,,Right hand Bat,Batter
+293,CA Ingram,South Africa,2010 - 2013,Legbreak,Left hand Bat,Top order Batter
+296,CJ Ferguson,Australia,2009 - 2016,Right arm Medium,Right hand Bat,Middle order Batter
+304,F du Plessis,South Africa,2011 - 2021,Legbreak,Right hand Bat,Middle order Batter
+305,RE Levi,South Africa,2012 - 2012,Right arm Medium,Right hand Bat,Opening Batter
+306,GJ Maxwell,Australia,2012 - 2024,Right arm Offbreak,Right hand Bat,Batting Allrounder
+307,SPD Smith,Australia,2010 - 2025,Legbreak Googly,Right hand Bat,Top order Batter
+308,MN Samuels,West Indies,2000 - 2018,Right arm Offbreak,Right hand Bat,Top order Batter
+311,JP Faulkner,Australia,2012 - 2017,Left arm Fast medium,Right hand Bat,Bowling Allrounder
+313,DAJ Bracewell,New Zealand,2011 - 2023,Right arm Fast medium,Right hand Bat,Bowler
+316,SP Narine,West Indies,2011 - 2019,Right arm Offbreak,Left hand Bat,Bowling Allrounder
+317,GB Hogg,Australia,1996 - 2014,Left arm Wrist spin,Left hand Bat,Allrounder
+319,CJ McKay,Australia,2009 - 2014,Right arm Fast medium,Right hand Bat,Bowler
+321,DA Miller,South Africa,2010 - 2024,Right arm Offbreak,Left hand Bat,Middle order Batter
+322,Azhar Mahmood,Pakistan,1996 - 2007,Right arm Fast medium,Right hand Bat,Bowling Allrounder
+324,RJ Peterson,South Africa,2002 - 2014,Slow Left arm Orthodox,Left hand Bat,Bowler
+325,KMDN Kulasekara,Sri Lanka,2003 - 2017,Right arm Fast medium,Right hand Bat,Bowler
+329,MJ Clarke,Australia,2003 - 2015,Slow Left arm Orthodox,Right hand Bat,Middle order Batter
+335,AD Russell,West Indies,2010 - 2024,Right arm Fast,Right hand Bat,Allrounder
+337,CA Lynn,Australia,2014 - 2018,Slow Left arm Orthodox,Right hand Bat,Batter
+342,MDKJ Perera,Sri Lanka,2013 - 2025,,Left hand Bat,Wicketkeeper Batter
+344,B Laughlin,Australia,2009 - 2013,Right arm Fast medium,Right hand Bat,Bowler
+349,BMAJ Mendis,Sri Lanka,2010 - 2019,Legbreak,Left hand Bat,Allrounder
+350,R Rampaul,West Indies,2003 - 2021,Right arm Fast medium,Left hand Bat,Bowler
+351,CH Morris,South Africa,2012 - 2019,Right arm Fast medium,Right hand Bat,Bowling Allrounder
+353,SMSM Senanayake,Sri Lanka,2012 - 2016,Right arm Offbreak,Right hand Bat,Bowler
+354,BJ Rohrer,Australia,2013 - 2013,,Left hand Bat,Middle order Batter
+356,Q de Kock,South Africa,2012 - 2024,,Left hand Bat,Wicketkeeper Batter
+358,MG Johnson,Australia,2005 - 2015,Left arm Fast,Left hand Bat,Bowler
+359,LJ Wright,England,2007 - 2014,Right arm Medium,Right hand Bat,Top order Batter
+363,DJG Sammy,West Indies,2004 - 2017,Right arm Medium,Right hand Bat,Allrounder
+364,KW Richardson,Australia,2013 - 2023,Right arm Fast medium,Right hand Bat,Bowler
+372,NM Coulter-Nile,Australia,2013 - 2019,Right arm Fast,Right hand Bat,Bowling Allrounder
+373,CJ Anderson,U.S.A.,2012 - 2024,Left arm Medium fast,Left hand Bat,Batting Allrounder
+374,NJ Maddinson,Australia,2013 - 2018,Slow Left arm Orthodox,Left hand Bat,Opening Batter
+377,JDS Neesham,New Zealand,2012 - 2024,Right arm Medium fast,Left hand Bat,Batting Allrounder
+378,TG Southee,New Zealand,2008 - 2024,Right arm Medium fast,Right hand Bat,Bowler
+379,MA Starc,Australia,2010 - 2025,Left arm Fast,Left hand Bat,Bowler
+380,BR Dunk,Australia,2014 - 2017,Right arm Offbreak,Left hand Bat,Wicketkeeper Batter
+381,RR Rossouw,South Africa,2014 - 2023,Right arm Offbreak,Left hand Bat,Top order Batter
+384,LMP Simmons,West Indies,2006 - 2021,Right arm Medium fast,Right hand Bat,Top order Batter
+386,BCJ Cutting,Australia,2013 - 2017,Right arm Fast medium,Right hand Bat,Allrounder
+387,Imran Tahir,South Africa,2011 - 2019,Legbreak Googly,Right hand Bat,Bowler
+388,BE Hendricks,South Africa,2014 - 2023,Left arm Fast medium,Left hand Bat,Bowler
+390,M de Lange,South Africa,2011 - 2016,Right arm Fast,Right hand Bat,Bowler
+392,JO Holder,West Indies,2013 - 2024,Right arm Medium fast,Right hand Bat,Bowling Allrounder
+397,KS Williamson,New Zealand,2010 - 2024,Right arm Offbreak,Right hand Bat,Top order Batter
+398,SA Abbott,Australia,2014 - 2024,Right arm Fast medium,Right hand Bat,Bowling Allrounder
+402,D Wiese,Namibia,2013 - 2024,Right arm Medium fast,Right hand Bat,Allrounder
+404,MJ McClenaghan,New Zealand,2012 - 2018,Left arm Fast medium,Left hand Bat,Bowler
+406,PJ Cummins,Australia,2011 - 2025,Right arm Fast,Right hand Bat,Bowler
+408,JC Buttler,England,2011 - 2024,,Right hand Bat,Wicketkeeper Batter
+409,CR Brathwaite,West Indies,2011 - 2019,Right arm Fast medium,Right hand Bat,Allrounder
+410,MP Stoinis,Australia,2015 - 2024,Right arm Medium,Right hand Bat,Batting Allrounder
+412,C Munro,New Zealand,2012 - 2020,Right arm Medium fast,Left hand Bat,Opening Batter
+416,MJ Guptill,New Zealand,2009 - 2022,Right arm Offbreak,Right hand Bat,Opening Batter
+417,KJ Abbott,South Africa,2013 - 2017,Right arm Fast medium,Right hand Bat,Bowler
+418,TM Head,Australia,2016 - 2025,Right arm Offbreak,Left hand Bat,Top order Batter
+422,SW Billings,England,2015 - 2022,,Right hand Bat,Wicketkeeper Batter
+424,PSP Handscomb,Australia,2016 - 2023,,Right hand Bat,Batter
+427,UT Khawaja,Australia,2011 - 2025,Right arm Medium,Left hand Bat,Top order Batter
+428,HM Amla,South Africa,2004 - 2019,"Right arm Medium, Right arm Offbreak",Right hand Bat,Top order Batter
+429,F Behardien,South Africa,2012 - 2018,Right arm Fast medium,Right hand Bat,Batting Allrounder
+431,A Zampa,Australia,2016 - 2024,Legbreak Googly,Right hand Bat,Bowler
+435,CJ Jordan,England,2013 - 2024,Right arm Fast medium,Right hand Bat,Bowler
+436,TS Mills,England,2016 - 2023,Left arm Fast,Right hand Bat,Bowler
+438,BA Stokes,England,2011 - 2024,Right arm Fast medium,Left hand Bat,Allrounder
+439,JJ Roy,England,2014 - 2023,,Right hand Bat,Opening Batter
+442,CR Woakes,England,2011 - 2024,Right arm Fast medium,Right hand Bat,Allrounder
+446,Rashid Khan,Afghanistan,2015 - 2025,Legbreak Googly,Right hand Bat,Bowling Allrounder
+448,LH Ferguson,New Zealand,2016 - 2024,Right arm Fast,Right hand Bat,Bowler
+449,C de Grandhomme,New Zealand,2012 - 2022,Right arm Medium fast,Right hand Bat,Allrounder
+450,AF Milne,New Zealand,2010 - 2024,Right arm Fast,Right hand Bat,Bowler
+451,S Badree,West Indies,2012 - 2018,Legbreak,Right hand Bat,Bowler
+452,Mohammad Nabi,Afghanistan,2009 - 2024,Right arm Offbreak,Right hand Bat,Allrounder
+453,AJ Tye,Australia,2016 - 2021,Right arm Medium fast,Right hand Bat,Bowler
+454,K Rabada,South Africa,2014 - 2025,Right arm Fast,Left hand Bat,Bowler
+457,DM Bravo,West Indies,2009 - 2022,Right arm Medium,Left hand Bat,Top order Batter
+461,TA Boult,New Zealand,2011 - 2024,Left arm Fast medium,Right hand Bat,Bowler
+462,E Lewis,West Indies,2016 - 2024,,Left hand Bat,Opening Batter
+463,MA Wood,England,2015 - 2024,Right arm Fast,Right hand Bat,Bowler
+465,DJM Short,Australia,2018 - 2020,Left arm Wrist spin,Left hand Bat,Opening Batter
+467,TK Curran,England,2017 - 2021,Right arm Fast medium,Right hand Bat,Allrounder
+469,B Stanlake,Australia,2017 - 2019,Right arm Fast,Left hand Bat,Bowler
+470,Mujeeb Ur Rahman,Afghanistan,2017 - 2024,Right arm Offbreak,Right hand Bat,Bowler
+471,A Dananjaya,Sri Lanka,2012 - 2024,"Right arm Offbreak, Legbreak",Left hand Bat,Bowling Allrounder
+475,H Klaasen,South Africa,2018 - 2024,Right arm Offbreak,Right hand Bat,Wicketkeeper Batter
+477,JC Archer,England,2019 - 2024,Right arm Fast,Right hand Bat,Bowler
+479,LE Plunkett,U.S.A.,2005 - 2019,Right arm Fast,Right hand Bat,Bowler
+480,Mustafizur Rahman,Bangladesh,2015 - 2024,Left arm Fast medium,Left hand Bat,Bowler
+481,AD Hales,England,2011 - 2022,Right arm Medium,Right hand Bat,Opening Batter
+484,MM Ali,England,2014 - 2024,Right arm Offbreak,Left hand Bat,Batting Allrounder
+489,IS Sodhi,New Zealand,2013 - 2024,Legbreak,Right hand Bat,Bowler
+490,SO Hetmyer,West Indies,2017 - 2024,,Left hand Bat,Middle order Batter
+493,JM Bairstow,England,2011 - 2024,Right arm Medium,Right hand Bat,Wicketkeeper Batter
+494,KMA Paul,West Indies,2018 - 2023,Right arm Fast medium,Right hand Bat,Allrounder
+496,N Pooran,West Indies,2016 - 2024,Right arm Offbreak,Left hand Bat,Wicketkeeper Batter
+498,SM Curran,England,2018 - 2024,Left arm Medium fast,Left hand Bat,Allrounder
+499,GC Viljoen,South Africa,2016 - 2016,Right arm Fast,Right hand Bat,Bowler
+501,S Lamichhane,Nepal,2018 - 2024,Legbreak Googly,Right hand Bat,Bowler
+502,HF Gurney,England,2014 - 2014,Left arm Fast medium,Right hand Bat,Bowler
+504,AS Joseph,West Indies,2016 - 2024,Right arm Fast,Right hand Bat,Bowler
+506,MJ Santner,New Zealand,2015 - 2025,Slow Left arm Orthodox,Left hand Bat,Bowling Allrounder
+507,JL Denly,England,2009 - 2020,Legbreak,Right hand Bat,Top order Batter
+508,LS Livingstone,England,2017 - 2024,"Right arm Offbreak, Legbreak",Right hand Bat,Batting Allrounder
+510,AJ Turner,Australia,2017 - 2023,Right arm Offbreak,Right hand Bat,Middle order Batter
+512,SE Rutherford,West Indies,2018 - 2024,Right arm Fast medium,Left hand Bat,Middle order Batter
+515,JL Pattinson,Australia,2011 - 2020,Right arm Fast medium,Left hand Bat,Bowler
+516,A Nortje,South Africa,2019 - 2024,Right arm Fast,Right hand Bat,Bowler
+517,T Banton,England,2019 - 2022,,Right hand Bat,Wicketkeeper Batter
+524,JR Philippe,Australia,2021 - 2023,,Right hand Bat,Wicketkeeper Batter
+528,I Udana,Sri Lanka,2009 - 2021,Left arm Medium fast,Right hand Bat,Allrounder
+531,AT Carey,Australia,2018 - 2025,,Left hand Bat,Wicketkeeper Batter
+535,SS Cottrell,West Indies,2013 - 2023,Left arm Fast medium,Right hand Bat,Bowler
+537,DR Sams,Australia,2020 - 2022,Left arm Fast medium,Right hand Bat,Allrounder
+538,M Jansen,South Africa,2021 - 2025,Left arm Fast,Right hand Bat,Bowling Allrounder
+540,KA Jamieson,New Zealand,2020 - 2024,Right arm Fast medium,Right hand Bat,Bowler
+542,JA Richardson,Australia,2017 - 2022,Right arm Fast,Right hand Bat,Bowler
+545,FA Allen,West Indies,2018 - 2024,Slow Left arm Orthodox,Right hand Bat,Bowling Allrounder
+547,DJ Malan,England,2017 - 2023,Legbreak,Left hand Bat,Top order Batter
+551,GD Phillips,New Zealand,2017 - 2025,Right arm Offbreak,Right hand Bat,Allrounder
+552,GHS Garton,England,2022 - 2022,Left arm Fast,Left hand Bat,Bowling Allrounder
+553,AK Markram,South Africa,2017 - 2025,Right arm Offbreak,Right hand Bat,Allrounder
+555,T Shamsi,South Africa,2016 - 2024,Left arm Wrist spin,Right hand Bat,Bowler
+556,NT Ellis,Australia,2021 - 2024,Right arm Fast medium,Right hand Bat,Bowler
+558,TL Seifert,New Zealand,2018 - 2024,,Right hand Bat,Wicketkeeper Batter
+561,TH David,Australia,2019 - 2024,Right arm Offbreak,Right hand Bat,Middle order Batter
+562,DP Conway,New Zealand,2020 - 2024,Right arm Medium,Left hand Bat,Wicketkeeper Batter
+564,R Powell,West Indies,2016 - 2024,Right arm Medium fast,Right hand Bat,Middle order Batter
+565,PBB Rajapaksa,Sri Lanka,2019 - 2025,Right arm Medium,Left hand Bat,Top order Batter
+567,OF Smith,West Indies,2018 - 2023,Right arm Fast medium,Right hand Bat,Bowling Allrounder
+569,PVD Chameera,Sri Lanka,2015 - 2024,Right arm Fast,Right hand Bat,Bowler
+571,R Shepherd,West Indies,2019 - 2024,Right arm Fast medium,Right hand Bat,Bowling Allrounder
+572,DJ Willey,England,2015 - 2023,Left arm Fast medium,Left hand Bat,Bowling Allrounder
+573,D Pretorius,South Africa,2016 - 2022,Right arm Medium fast,Right hand Bat,Bowling Allrounder
+578,D Brevis,South Africa,2023 - 2023,Legbreak,Right hand Bat,Batting Allrounder
+581,HE van der Dussen,South Africa,2018 - 2024,Legbreak,Right hand Bat,Top order Batter
+584,JR Hazlewood,Australia,2010 - 2024,Right arm Fast medium,Left hand Bat,Bowler
+589,DJ Mitchell,New Zealand,2019 - 2025,Right arm Medium,Right hand Bat,Batting Allrounder
+595,M Theekshana,Sri Lanka,2021 - 2025,Right arm Offbreak,Right hand Bat,Bowler
+597,Fazalhaq Farooqi,Afghanistan,2021 - 2024,Left arm Fast medium,Right hand Bat,Bowler
+599,RP Meredith,Australia,2021 - 2024,Right arm Fast,Right hand Bat,Bowler
+601,T Stubbs,South Africa,2022 - 2025,Right arm Offbreak,Right hand Bat,Batter
+605,OC McCoy,West Indies,2018 - 2024,Left arm Fast medium,Left hand Bat,Bowler
+606,Sikandar Raza,Zimbabwe,2013 - 2025,"Right arm Offbreak, Legbreak",Right hand Bat,Batting Allrounder
+607,Rahmanullah Gurbaz,Afghanistan,2019 - 2024,Right arm Medium,Right hand Bat,Wicketkeeper Batter
+608,KR Mayers,West Indies,2020 - 2024,Right arm Medium,Left hand Bat,Batting Allrounder
+610,HC Brook,England,2022 - 2024,Right arm Medium,Right hand Bat,Batter
+611,AU Rashid,England,2009 - 2024,Legbreak,Right hand Bat,Bowler
+612,C Green,Australia,2020 - 2024,Right arm Fast medium,Right hand Bat,Batting Allrounder
+617,MG Bracewell,New Zealand,2022 - 2025,Right arm Offbreak,Left hand Bat,Batting Allrounder
+618,MW Short,Australia,2023 - 2024,Right arm Offbreak,Right hand Bat,Top order Batter
+624,PD Salt,England,2021 - 2024,Right arm Offbreak,Right hand Bat,Wicketkeeper Batter
+628,JP Behrendorff,Australia,2017 - 2024,Left arm Fast medium,Right hand Bat,Bowler
+629,AJ Hosein,West Indies,2021 - 2024,Slow Left arm Orthodox,Left hand Bat,Bowler
+630,Naveen-ul-Haq,Afghanistan,2016 - 2024,Right arm Medium fast,Right hand Bat,Bowler
+631,Noor Ahmad,Afghanistan,2022 - 2024,Left arm Wrist spin,Right hand Bat,Bowler
+632,JE Root,England,2012 - 2024,Right arm Offbreak,Right hand Bat,Top order Batter
+634,MD Shanaka,Sri Lanka,2015 - 2024,Right arm Medium,Right hand Bat,Allrounder
+638,R Ravindra,New Zealand,2021 - 2025,Slow Left arm Orthodox,Left hand Bat,Batting Allrounder
+639,SD Hope,West Indies,2015 - 2024,,Right hand Bat,Wicketkeeper Batter
+641,Azmatullah Omarzai,Afghanistan,2021 - 2024,Right arm Medium fast,Right hand Bat,Allrounder
+643,G Coetzee,South Africa,2023 - 2024,Right arm Fast,Right hand Bat,Bowler
+646,SH Johnson,Australia,2023 - 2024,Left arm Fast,Left hand Bat,Bowler
+650,RJW Topley,England,2015 - 2024,Left arm Fast medium,Right hand Bat,Bowler
+657,WG Jacks,England,2022 - 2024,Right arm Offbreak,Right hand Bat,Batting Allrounder
+658,J Fraser-McGurk,Australia,2024 - 2024,Legbreak Googly,Right hand Bat,Batter
+660,KA Maharaj,South Africa,2016 - 2025,Slow Left arm Orthodox,Right hand Bat,Bowler
+663,L Wood,England,2022 - 2023,Left arm Fast medium,Left hand Bat,Bowler
+664,LB Williams,South Africa,2021 - 2024,Right arm Medium fast,Left hand Bat,Bowler
+667,RJ Gleeson,England,2022 - 2022,Right arm Fast medium,Right hand Bat,Bowler
+668,Gulbadin Naib,Afghanistan,2011 - 2024,Right arm Medium fast,Right hand Bat,Batting Allrounder
+669,D Ferreira,South Africa,2023 - 2024,Right arm Offbreak,Right hand Bat,Allrounder
+673,V Viyaskanth,Sri Lanka,2023 - 2023,Legbreak,Right hand Bat,Bowler
+675,B Geeves,Australia,2008 - 2009,Right arm Fast medium,Right hand Bat,Bowler
+677,A Nel,South Africa,2001 - 2008,Right arm Fast medium,Right hand Bat,Bowler
+688,RW Price,Zimbabwe,1999 - 2013,Slow Left arm Orthodox,Right hand Bat,Bowler
+690,BW Hilfenhaus,Australia,2007 - 2012,Right arm Fast medium,Right hand Bat,Bowler
+692,MG Neser,Australia,2018 - 2023,Right arm Medium fast,Right hand Bat,Bowling Allrounder
+693,K Santokie,West Indies,2011 - 2014,Left arm Medium,Left hand Bat,Bowler
+694,JW Hastings,Australia,2010 - 2017,Right arm Fast medium,Right hand Bat,Allrounder
+695,GS Sandhu,Australia,2015 - 2015,Right arm Fast medium,Left hand Bat,Bowler
+696,SM Boland,Australia,2016 - 2025,Right arm Fast medium,Right hand Bat,Bowler
+700,MJ Henry,New Zealand,2014 - 2025,Right arm Fast medium,Right hand Bat,Bowler
+702,L Ngidi,South Africa,2017 - 2024,Right arm Fast medium,Right hand Bat,Bowler
+703,CJ Dala,South Africa,2018 - 2021,Right arm Medium,Right hand Bat,Bowler
+704,SC Kuggeleijn,New Zealand,2017 - 2024,Right arm Fast medium,Right hand Bat,Bowling Allrounder
+706,O Thomas,West Indies,2018 - 2024,Right arm Fast,Left hand Bat,Bowler
+708,CJ Green,Australia,2023 - 2023,Right arm Offbreak,Right hand Bat,Bowling Allrounder
+715,M Pathirana,Sri Lanka,2022 - 2024,Right arm Fast,Right hand Bat,Bowler
+721,SSB Magala,South Africa,2021 - 2023,Right arm Fast medium,Right hand Bat,Bowler
+726,N Burger,South Africa,2023 - 2024,Left arm Fast medium,Left hand Bat,Bowler
+727,KT Maphaka,South Africa,2024 - 2025,Left arm Fast,Left hand Bat,Bowler
+730,S Joseph,West Indies,2024 - 2024,Right arm Fast,Left hand Bat,Bowler
+731,N Thushara,Sri Lanka,2022 - 2025,Right arm Medium fast,Right hand Bat,Bowler
